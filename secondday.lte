@@ -1,2 +1,2 @@
 first day learned how to fork
-after you fork the file you cope the url make sure you already have a repo. <p>so save your chages this is the order that you do it in git status then git diff git commit -m "message" the then git push origin master.</p>
+after you fork the file you cope the url make sure you already have a repo. <p>so save your chages this is the order that you do it in git status then git diff git commit -m "message" the then git push origin master, and dont froget to set the remote you do that by doing git remote add origin.</p>
